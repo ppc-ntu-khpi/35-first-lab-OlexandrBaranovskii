@@ -11,7 +11,7 @@ public class QuotationTest {
 }
 ```
 
-## Task_1.2
+## Task_2.2
 
 ![task.1.2](https://github.com/ppc-ntu-khpi/35-first-lab-OlexandrBaranovskii/blob/master/Solution/Task_1.2.PNG "Task_.2.2.png")
 
